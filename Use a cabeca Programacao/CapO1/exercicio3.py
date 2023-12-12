@@ -3,11 +3,11 @@ import tweepy
 import urllib.request
 from tweepy import OAuthHandler
 
-consumer_key = 'OV4o3wgmlZjdRC3O5Mf9hcVpZ'
-consumer_secret = 'YgnJQDTTZ8ni5NyZa7Za33CuKVvRvuiqfKT08rReLWdCeDcqZk'
+consumer_key = 
+consumer_secret = 
 
-access_token = '1697398803416965120-RsFW2NGhOWO9I7lhl1Jt5my7FX8uGb'
-access_token_secret = 'fHkdIctW1Xq12i44IhftDa3AMANl2zqBxS3Wr9aF6q4d0'
+access_token = 
+access_token_secret = 
 
 
 def get_price():
